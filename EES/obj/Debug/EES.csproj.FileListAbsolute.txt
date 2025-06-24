@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Elohim project\EES\EES\bin\Debug\EES.exe.config
+C:\Users\USER\Desktop\Elohim project\EES\EES\bin\Debug\EES.exe
+C:\Users\USER\Desktop\Elohim project\EES\EES\bin\Debug\EES.pdb
+C:\Users\USER\Desktop\Elohim project\EES\EES\obj\Debug\EES.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Elohim project\EES\EES\obj\Debug\EES.frmSplash.resources
+C:\Users\USER\Desktop\Elohim project\EES\EES\obj\Debug\EES.Properties.Resources.resources
+C:\Users\USER\Desktop\Elohim project\EES\EES\obj\Debug\EES.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Elohim project\EES\EES\obj\Debug\EES.exe
+C:\Users\USER\Desktop\Elohim project\EES\EES\obj\Debug\EES.pdb
+C:\Users\USER\Desktop\Elohim project\EES\EES\obj\Debug\EES.frmlogin.resources
+C:\Users\USER\Desktop\Elohim project\EES\EES\obj\Debug\EES.MDIParent1.resources
+C:\Users\USER\Desktop\Elohim project\EES\EES\obj\Debug\EES.frmCustomer.resources
+C:\Users\USER\Desktop\Elohim project\EES\EES\obj\Debug\EES.frmEmployee.resources
+C:\Users\USER\Desktop\Elohim project\EES\EES\obj\Debug\EES.frmMain.resources
+C:\Users\USER\Desktop\Elohim project\EES\EES\obj\Debug\EES.frmDevice.resources
+C:\Users\USER\Desktop\Elohim project\EES\EES\obj\Debug\EES.frmAccessory.resources
